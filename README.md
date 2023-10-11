@@ -142,6 +142,10 @@ plt.xlabel('Feature Importance')
 plt.title('Feature Importance - Random Forest')
 plt.show()
 ```
+## Dashboard
+
+![alt text](dashboard_img.png)
+
 ## Running the Code
 
 1. **Clone this repository:**
